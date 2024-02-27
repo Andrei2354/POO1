@@ -5,8 +5,10 @@ class animal:
     2.¿Qué palabra reservada hay que utilizar para crear un nuevo objeto?
 
     """
-    def caminar():
-        print("caminando", animal.patas ,"patas")
+    patas = 0 
+
+    def caminar(self):
+        print("caminando", self.patas ,"patas")
 
 
 def main():
