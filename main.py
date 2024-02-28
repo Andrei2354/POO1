@@ -1,27 +1,10 @@
-class animal:
-
-    """
-    1. ¿Que palabra reservada se utiliza en lugar de animal(nombre de la clase) al atributo patas?
-    2.¿Qué palabra reservada hay que utilizar para crear un nuevo objeto?
-
-    """
-    #patas = 0 #atributo
-
-    def caminar(self):  #metodo
-        self.patas = 0 #atributo
-        print("caminando", self.patas ,"patas")
-
+from alumno import alumno
 
 def main():
-    vaca = animal()
-    vaca.patas = 4
-    vaca.caminar()
+    daniel = alumno("Daniel", 5)
+    daniel.imprimir()
+    daniel.promoción()
 
-    pato = animal()
-    pato.patas = 2
-    pato.caminar()
-
-    
-
+ 
 if __name__ == "__main__":
     main()
