@@ -8,7 +8,7 @@ class Calculo:
 
 
     def aritmericaResta(self):
-        print(f"El valor de la resta es:",  self.numero1 - self.numero2)
+        print(f"El valor de la resta es: ",  self.numero1 - self.numero2)
 
 
     def aritmericaMult(self):
