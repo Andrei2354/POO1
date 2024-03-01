@@ -16,7 +16,7 @@ class Calculo:
 
 
     def aritmericaDiv(self):
-        print(f"El valor de la división es:", self.numero1 / self.numero2)
+        print(f"El valor de la división es: ", self.numero1 / self.numero2)
     
 
 
