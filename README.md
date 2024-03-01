@@ -4,3 +4,7 @@
 - Animal
 - Alumno
 - Persona
+- calculo
+- crypto
+- cumple
+- main
