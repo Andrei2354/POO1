@@ -3,7 +3,6 @@
 ## Ejercicios de introdución 
 - Animal
 - Alumno
-- Persona
 - calculo
 - crypto
 - cumple
